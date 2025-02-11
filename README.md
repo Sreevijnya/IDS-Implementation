@@ -5,6 +5,6 @@
 Authors : Jayanthi G, Sreevijnya M, Nachiappan N
 
 Datasets : 
-      1) kddcup - https://www.kaggle.com/datasets/bharath5673/kddcup99
-      2) nsl-kdd - https://www.kaggle.com/datasets/hassan06/nslkdd
-      3) unsw - https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15
+      - kddcup - https://www.kaggle.com/datasets/bharath5673/kddcup99
+      - nsl-kdd - https://www.kaggle.com/datasets/hassan06/nslkdd
+      - unsw - https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15
